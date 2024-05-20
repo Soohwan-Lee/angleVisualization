@@ -10,7 +10,7 @@ void draw() {
   background(255); // Set background to white
   
   // Adjust the camera to better view the cylinder
-  translate(width / 2, height / 2, 0);
+  translate(width / 2, height * 3 / 4, 0);
   // Optional: Adjust the scene for better visualization
   // This initial rotation is removed to simplify understanding of tilt directions
   
