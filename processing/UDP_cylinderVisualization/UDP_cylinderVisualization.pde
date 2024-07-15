@@ -42,7 +42,7 @@ void draw() {
 
   // Draw the cylinder
   fill(int(red), 10, int(blue)); // Set cylinder color
-  stroke(0, 0, 0, 30); // Set cylinder stroke color
+  stroke(255, 0, 0, 30); // Set cylinder stroke color
   pushMatrix();
   // The cylinder is translated along the Z-axis to ensure it rotates around its base
   translate(0, 0, -100); // Adjust if necessary to position the cylinder correctly
