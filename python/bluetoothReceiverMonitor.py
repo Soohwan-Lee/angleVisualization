@@ -52,7 +52,6 @@ async def connect_and_receive(address):
                     data_str = data.decode('utf-8')
                     # print(f"Received data: {data_str} (Type: {type(data_str)})")
                     send_udp(data_str)
-                    print(data_str)
                 except Exception as e:
                     print(f"Failed to process received data: {e}")
 
