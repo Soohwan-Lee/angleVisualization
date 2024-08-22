@@ -1,0 +1,4 @@
+([('BLE Scanner and Receiver',
+   '/Users/soohwanlee/Desktop/github/angleVisualization/python/final/dist/BLE '
+   'Scanner and Receiver',
+   'EXECUTABLE')],)
